@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Book.ttf') format('truetype');
+  font-weight: 450;
+}
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Medium.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Bold.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Extra%20Bold.ttf') format('truetype');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Tahrir';
+  src: url('https://cdn.jsdelivr.net/gh/masadeghiazad-stack/vand-fonts@main/Tahrir_Black.ttf') format('truetype');
+  font-weight: 900;
+}
